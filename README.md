@@ -1,2 +1,6 @@
 # MySQL
-Repositório de estudo de banco de dados MySQL
+Estudo de Banco de dados MySQL
+
+Material utilizado - Curso em Vídeo (Guanabara)
+
+;
